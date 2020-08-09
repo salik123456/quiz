@@ -1,0 +1,13 @@
+fieldset{
+    border-radius: 1em;
+    text-align: justify;
+    font-size: larger;
+}
+div{
+    background: url("a2.jpg");
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+button{
+    margin-top: 10px;
+}
